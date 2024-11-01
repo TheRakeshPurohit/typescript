@@ -21,7 +21,7 @@
     "@exercism/eslint-config-typescript": "^0.8.0",
     "@jest/globals": "^29.7.0",
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "~22.7.6",
+    "@types/node": "~22.8.6",
     "babel-jest": "^29.7.0",
     "core-js": "~3.38.1",
     "eslint": "^9.12.0",
